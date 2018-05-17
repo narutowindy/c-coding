@@ -15,6 +15,8 @@ int main(){
 
 /*
 Page 113 : HEADfirstC	*(p+1) = 'K'  // will segfault
-	ref: https://stackoverflow.com/questions/1576489/where-are-constant-variables-stored-in-c
- 
+
+ ref: https://stackoverflow.com/questions/1576489/where-are-constant-variables-stored-in-c
+	
+ https://www.geeksforgeeks.org/storage-for-strings-in-c/
 */
