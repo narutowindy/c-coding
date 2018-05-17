@@ -12,3 +12,9 @@ int main(){
 	return 0;
 }
 
+
+/*
+	Error occurs when you try to change the string array, because it stored in DATA segment , which is read only...
+	*(p+1) = 'K'  // will segfault
+ 
+*/
