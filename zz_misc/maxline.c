@@ -1,0 +1,7 @@
+/*
+ * 	buf[] 
+ * 	maxline[]
+ *	getline()
+ *
+ *
+ * */
