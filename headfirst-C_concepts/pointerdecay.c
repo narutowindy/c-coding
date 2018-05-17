@@ -14,8 +14,7 @@ int main(){
 
 
 /*
-	Error occurs when you try to change the string array, because it stored in DATA segment , which is read only...
-	*(p+1) = 'K'  // will segfault
+Page 113 : HEADfirstC	*(p+1) = 'K'  // will segfault
 	ref: https://stackoverflow.com/questions/1576489/where-are-constant-variables-stored-in-c
  
 */
